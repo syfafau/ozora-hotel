@@ -1,0 +1,19 @@
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+
+#top {
+    display: block;
+    width: 100%;
+    object-fit: cover;
+}
+
+.element-top img {
+    height: 20000px;
+    width: 500%;
+    object-fit: cover;
+}
